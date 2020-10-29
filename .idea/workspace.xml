@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bb34536-98dd-40f0-aa39-e13159c0cad2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1irJPw6UyVspmeBtiFty9hqGbxB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../landingpage_asuzac" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\test_asuzac\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bb34536-98dd-40f0-aa39-e13159c0cad2" name="Default Changelist" comment="" />
+      <created>1602659756863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602659756863</updated>
+      <workItem from="1602659757894" duration="482000" />
+      <workItem from="1602660251108" duration="6260000" />
+      <workItem from="1602722155761" duration="15372000" />
+      <workItem from="1602810853723" duration="46000" />
+      <workItem from="1602915484482" duration="24000" />
+      <workItem from="1602915543692" duration="156000" />
+      <workItem from="1603068426829" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="174" width="521" height="332" key="#File_Watchers" timestamp="1602740898655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="174" width="521" height="332" key="#File_Watchers/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602740898655" />
+    <state x="349" y="0" key="#PHP" timestamp="1602659834398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602659834398" />
+    <state x="414" y="74" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602731695743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="414" y="74" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602731695743" />
+    <state x="308" y="118" key="EditFileWatcherDialog" timestamp="1602725486195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="308" y="118" key="EditFileWatcherDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602725486195" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603068440830">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1603068440830" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1602743455901">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602743455901" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602725451656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602725451656" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1602743009083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602743009083" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602734628266">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1602734628266" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/mvc/model/SinhVienModel.php</url>
+          <line>6</line>
+          <properties>
+            <option name="className" value="\SinhVienModel" />
+            <option name="methodName" value="Tong" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
